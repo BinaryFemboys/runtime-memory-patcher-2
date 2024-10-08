@@ -9,7 +9,7 @@ This tool does the same thing as v1 but it allows for multiple patches at the sa
 ## **Features**
 
 - **Patch Memory:** Automatically change the memory of a target process.
-- **Admin Privileges:** Requests admin access to enable memory modification.
+- **Admin Privileges:** Requests admin access to allow memory modification.
 - **Easy to Use:** Only requires basic knowledge to use.
 - **Simple video**: [link](https://i-am.skidding.dev/EUYOBWMnixdV.mp4)
 
