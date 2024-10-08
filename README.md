@@ -20,11 +20,11 @@ This tool does the same thing as v1 but it allows for multiple patches at the sa
 
 ## **How to Use**
 
-1. **Edit the Code:** Rename example to your exe name (ctrl+f) and the patch section (use the 1337 to c++ tool provided).
+1. **Edit the Code:** Rename example to your exe name (ctrl+f) and edit the patch section (use the 1337 to c++ tool provided).
 
 2. **Compile the Code:** Build the application using a C++ compiler.
 
-3. **Run the Compiled Exe**
+3. **Run the Compiled Exe:** Go to your release folder and run the application.
 
 ## **License**
 
