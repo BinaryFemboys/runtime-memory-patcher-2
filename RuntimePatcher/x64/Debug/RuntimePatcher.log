@@ -1,0 +1,6 @@
+﻿  RuntimePatcher.cpp
+D:\USB-Stick\Coding Stuff ❤️\Projects\C++\RuntimePatcher\RuntimePatcher.cpp(405,47): warning C4319: "~": Null erweitert "DWORD" zu größerem "uintptr_t"
+D:\USB-Stick\Coding Stuff ❤️\Projects\C++\RuntimePatcher\RuntimePatcher.cpp(408,34): warning C4101: "mbi": Unreferenzierte lokale Variable
+  RuntimePatcher.vcxproj -> D:\USB-Stick\Coding Stuff ❤️\Projects\C++\RuntimePatcher\x64\Debug\RuntimePatcher.exe
+  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
+  konnte nicht gefunden werden.

@@ -1,0 +1,15 @@
+﻿  RuntimePatcher.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+C:\Users\deltrix\Desktop\cracking tools\patchers\1337 to DLL\Patchers\RuntimePatcher\RuntimePatcher.cpp(170,17): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\deltrix\Desktop\cracking tools\patchers\1337 to DLL\Patchers\RuntimePatcher\RuntimePatcher.cpp(377,47): warning C4319: '~' : zéro étendant 'DWORD' vers 'uintptr_t' d'une taille supérieure
+C:\Users\deltrix\Desktop\cracking tools\patchers\1337 to DLL\Patchers\RuntimePatcher\RuntimePatcher.cpp(383,117): warning C4244: 'argument' : conversion de 'uintptr_t' en 'int', perte possible de données
+C:\Users\deltrix\Desktop\cracking tools\patchers\1337 to DLL\Patchers\RuntimePatcher\RuntimePatcher.cpp(392,123): warning C4244: 'argument' : conversion de 'uintptr_t' en 'int', perte possible de données
+C:\Users\deltrix\Desktop\cracking tools\patchers\1337 to DLL\Patchers\RuntimePatcher\RuntimePatcher.cpp(401,81): warning C4244: 'argument' : conversion de 'uintptr_t' en 'int', perte possible de données
+C:\Users\deltrix\Desktop\cracking tools\patchers\1337 to DLL\Patchers\RuntimePatcher\RuntimePatcher.cpp(406,61): warning C4244: 'argument' : conversion de 'uintptr_t' en 'int', perte possible de données
+C:\Users\deltrix\Desktop\cracking tools\patchers\1337 to DLL\Patchers\RuntimePatcher\RuntimePatcher.cpp(412,89): warning C4244: 'argument' : conversion de 'uintptr_t' en 'int', perte possible de données
+  Génération de code en cours
+  1 of 390 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  RuntimePatcher.vcxproj -> C:\Users\deltrix\Desktop\cracking tools\patchers\1337 to DLL\Patchers\RuntimePatcher\x64\Release\RuntimePatcher.exe
